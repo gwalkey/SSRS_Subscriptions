@@ -128,7 +128,6 @@ function Format-Xml {
 
 
 $ReportServerUri  = "http://SSRS2016/ReportServer/ReportService2010.asmx"
-$sitePath = "/" 
 
 # Optional -class parameter? 
 $rs2010 += New-WebServiceProxy -Uri $ReportServerUri -UseDefaultCredential;  
