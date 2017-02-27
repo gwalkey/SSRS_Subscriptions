@@ -36,7 +36,7 @@
     b) Report Server Fileshare
         Parameters:
         FILENAME = "report.pdf"
-        PATH = "\\fsnt2\pfmnt\transfers\PT_DRR"
+        PATH = "\\fileserver\share"
         RENDER_FORMAT = PDF, MHTML, IMAGE, CSV, XML, EXCELOPENXML, PDF (Landscape), PPTX, WORDOPENXML, PDF (Portrait)
         WRITEMODE = None, OverWrite, AutoIncrement
         FILEEXTN = True/False - Add an Extension based on Type (.PDF)
