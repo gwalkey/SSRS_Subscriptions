@@ -1,5 +1,4 @@
-# Create and List SSRS Reporting Services Subscriptions from Powershell
-Create and List SSRS Reporting Services Subscriptions from Powershell
+# Create and List SSRS Reporting Services Subscriptions using Powershell
 
 Based on Code from Jasmin Mistry
 
