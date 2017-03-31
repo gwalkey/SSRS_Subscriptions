@@ -6,7 +6,7 @@ https://gist.github.com/jasmin-mistry/9de9daf74cbc1d56a33984f2787ad2ea
 
 This code assumes you have permissions to the SSRS Webservice
 
-Get -  lists all the subscriptions for a given Report Path and Report Name
+'''Get''' -  lists all the subscriptions for a given Report Path and Report Name
 
 Example: if your SSRS top-level folder structure has a folder named 'Sales' and a report in that folder called 'Sales Projections'
 
