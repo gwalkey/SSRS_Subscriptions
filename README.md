@@ -15,6 +15,20 @@ Parameters: If your SSRS server is called 'SSRS2016' and your top-level folder s
 Parameters: Script Parameter $SSRSServer should be set to your SSRS instance
 
 Internal Parameters: The powershell Comment block at the stop details all the possible Subscription Options including
+
 Email or Fileshare
+
 File share path
+
 Email Recipients
+
+Schedule Time and Repeating frequency
+
+Report Parameter options inclding a sample for a multi-select combo-type parameters
+
+The Scheduling Options are maintained in the XML Fragment
+
+
+<b>Remove-SSRS_Subscriptions</b> -  Deletes all subscriptions for a given Report
+
+Parameters: SSRS Instance and full Report Path (eg '/Sales/Western Division/Sales by Manager')
