@@ -24,7 +24,7 @@ Email Recipients
 
 Schedule Time and Repeating frequency
 
-Report Parameter options inclding a sample for a multi-select combo-type parameters
+Report Parameter options include a sample for a multi-select combo-type parameter
 
 The Scheduling Options are maintained in the XML Fragment
 
