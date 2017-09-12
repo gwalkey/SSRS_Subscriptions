@@ -14,7 +14,7 @@ Parameters: If your SSRS server is called 'SSRS2016' and your top-level folder s
 
 Parameters: Script Parameter $SSRSServer should be set to your SSRS instance
 
-Internal Parameters: The powershell Comment block at the stop details all the possible Subscription Options including
+Internal Parameters: The powershell Comment block at the top details all the possible Subscription Options including
 
 Email or Fileshare
 
