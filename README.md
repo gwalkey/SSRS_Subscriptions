@@ -1,4 +1,4 @@
-# Create, Delete, List SQL Server Reporting Services Subscriptions from Powershell
+# Create, Delete, List SQL Server Reporting Services Subscriptions using Powershell and SOAP
 
 Based on Code from Jasmin Mistry
 
