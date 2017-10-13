@@ -4,7 +4,7 @@ Based on Code from Jasmin Mistry
 
 https://gist.github.com/jasmin-mistry/9de9daf74cbc1d56a33984f2787ad2ea
 
-This code assumes you have permissions to the SSRS Webservice
+This code assumes you have permissions to the SSRS SOAP Webservice
 
 <b>Get-SSRS_Subscriptions</b> -  lists all the subscriptions for a given Report
 
