@@ -33,4 +33,4 @@ The Scheduling Options are maintained in the XML Fragment
 
 Parameters: SSRS Instance and full Report Path (eg '/Sales/Western Division/Sales by Manager')
 
-*In SSRS 2016 and SSRS 2017 and the Power BI Reporting Server, a REST API exists but is broken*
+*In SSRS 2017 and the Power BI Reporting Server, a REST API exists and is much easier to use*
