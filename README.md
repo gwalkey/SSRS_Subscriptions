@@ -9,11 +9,11 @@ This Code will be updated shortly to include the option to persist subscriptions
 
 This code assumes you have permissions to the SSRS SOAP Webservice
 
-*<b>Get-SSRS_Subscriptions</b> -  lists all the subscriptions for a given Report
+*<b>Get-SSRS_Subscriptions</b> -  lists all the subscriptions for a given Report*
 
 Parameters: If your SSRS server is called 'SSRS2016' and your top-level folder structure has a folder named 'Sales' and a report in that folder called 'Sales Projections',  you need to set the script parameters as 'SSRS2016' and '/Sales/Sales Projections' accordingly
 
-*<b>New-SSRS_Subscription</b> -  Creates a subscription for a given Report using a variety of SSRS options
+*<b>New-SSRS_Subscription</b> -  Creates a subscription for a given Report using a variety of SSRS options*
 
 Parameters: Script Parameter $SSRSServer should be set to your SSRS instance
 
@@ -32,7 +32,7 @@ Report Parameter options include a sample for a multi-select combo-type paramete
 The Scheduling Options are maintained in the XML Fragment
 
 
-*<b>Remove-SSRS_Subscriptions</b> -  Deletes all subscriptions for a given Report
+*<b>Remove-SSRS_Subscriptions</b> -  Deletes all subscriptions for a given Report*
 
 Parameters: SSRS Instance and full Report Path (eg '/Sales/Western Division/Sales by Manager')
 
